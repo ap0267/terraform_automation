@@ -2,6 +2,10 @@
 
 **Terraform Configuration to Launch an AWS EC2 Instance** 
 
+**prerequisite**
+<br>
+login in *Gitbash* or *cmd* using `aws configure` command
+
 Features:
 
 Provider: AWS (`us-east-1` region) <br>
